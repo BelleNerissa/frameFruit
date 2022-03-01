@@ -31,7 +31,7 @@ const About = () => {
             <NavLink to="/contact" className="btn btn-outline-primary px-3">
               Entre em contato
             </NavLink>
-            <a href="https://github.com/BelleNerissa" className="link-dark px-3 text-purple">FrameFruit 🤍 by Belle Nerissa</a>
+            <a href="https://github.com/BelleNerissa/frameFruit" className="link-dark px-3 text-purple">FrameFruit 🤍 by Belle Nerissa</a>
           </div>
           <div className="col-md-6 d-flex justify-content-center">
             <img
