@@ -7,4 +7,3 @@ Projeto de Ecommerce para a venda de frutas
 Nesse projeto voce poderá realizar login com os dados abaixo:
 ### `email: framefruit@ff.com` 
 ### `password: ff123456` 
-
